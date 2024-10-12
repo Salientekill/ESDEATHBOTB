@@ -12,6 +12,11 @@ Este é um bot privado. Para ativar o ESDEATH BOT, é necessária uma chave de a
 
 Baixe a versão mais recente do ESDEATH BOT diretamente do GitHub:
 
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-brightgreen)](https://github.com/Salientekill/ESDEATHBOTB/archive/refs/heads/main.zip)
+
+Ou, se preferir, você pode clonar o repositório diretamente no seu ambiente:
+
+git clone https://github.com/Salientekill/ESDEATHBOT.git
 
 
 ❓ Precisa de Ajuda?
