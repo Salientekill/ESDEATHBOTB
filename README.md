@@ -4,11 +4,16 @@
 <img src="https://telegra.ph/file/4f55f227cb19842a5280b.jpg" alt="ESDEATH BOT" width="300" />
 </div><p align="center">
   <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://img.shields.io/badge/Author-LotusDev-red.svg?style=for-the-badge&logo=github" /></a>
-</p>🚨 ATENÇÃO: BOT PAGO 🚨
+  
+<div align="center">
+  🚨 ATENÇÃO: BOT PAGO 🚨
+</div>
 
 Este é um bot privado. Para ativar o ESDEATH BOT, é necessária uma chave de acesso. Se você deseja adquirir a chave de ativação, entre no grupo oficial e entre em contato com Lotus.
 
+<div align="center">
 📦 Download do Bot
+</div>
 
 Baixe a versão mais recente do ESDEATH BOT diretamente do GitHub:
 
@@ -18,8 +23,9 @@ Ou, se preferir, você pode clonar o repositório diretamente no seu ambiente:
 
 git clone https://github.com/Salientekill/ESDEATHBOT.git
 
-
+<div align="center">
 ❓ Precisa de Ajuda?
+</div>
 
 Se precisar de suporte durante a instalação ou operação do bot, entre no nosso grupo de suporte no WhatsApp:
 
@@ -27,8 +33,9 @@ Se precisar de suporte durante a instalação ou operação do bot, entre no nos
 
 
 ---
-
+<div align="center">
 🛠️ Requisitos de Instalação
+</div>
 
 🔧 Passo 1: Instalar o Termux
 
@@ -74,14 +81,17 @@ bash start.sh -code
 
 ---
 
+<div align="center">
 🚑 Suporte e Solução de Problemas
+</div>
 
 Caso enfrente problemas durante a instalação ou execução, entre no grupo oficial e solicite assistência de um dos administradores ou do próprio criador, Lotus.
 
 
 ---
-
+<div align="center">
 🤖 Funcionalidades e Recursos do ESDEATH BOT
+</div>
 
 Acesso Controlado: O bot só pode ser ligado com uma chave de acesso válida.
 
