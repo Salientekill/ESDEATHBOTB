@@ -7,7 +7,7 @@
   
   
 <div align="center">
-  🚨 ATENÇÃO: BOT PAGO 🚨
+**🚨 ATENÇÃO: BOT PAGO 🚨**
 </div>
 
 Este é um bot privado. Para ativar o ESDEATH BOT, é necessária uma chave de acesso. Se você deseja adquirir a chave de ativação, entre no grupo oficial e entre em contato com Lotus.
@@ -25,6 +25,7 @@ Baixe a versão mais recente do ESDEATH BOT diretamente do GitHub:
   </a>
 </div>
 
+
 Ou, se preferir, você pode clonar o repositório diretamente no seu ambiente:
 
 git clone https://github.com/Salientekill/ESDEATHBOT.git
@@ -36,6 +37,11 @@ git clone https://github.com/Salientekill/ESDEATHBOT.git
 
 Se precisar de suporte durante a instalação ou operação do bot, entre no nosso grupo de suporte no WhatsApp:
 
+<div align="center">
+  <a href="https://chat.whatsapp.com/KQqkmb620lq9A2dPsL8i4s">
+    <img src="https://img.shields.io/badge/Entrar%20no%20Grupo%20do%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Entrar no Grupo do WhatsApp"/>
+  </a>
+</div>
 
 
 
@@ -48,9 +54,13 @@ Se precisar de suporte durante a instalação ou operação do bot, entre no nos
 
 🔧 Passo 1: Instalar o Termux
 
-Baixe e instale a versão 0.119 do Termux:
+Baixe e instale o Termux:
 
-Baixar Termux 0.119 APK
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.termux">
+    <img src="https://img.shields.io/badge/Download%20Termux-3DDC84?style=for-the-badge&logo=googleplay" alt="Baixar Termux"/>
+  </a>
+</div>
 
 ⚙️ Passo 2: Comandos Básicos para Preparar o Ambiente
 
