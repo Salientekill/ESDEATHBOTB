@@ -141,27 +141,29 @@ Suporte Técnico: Time dedicado para ajudar na instalação e uso do bot.
 
 
 <div align="center">
-  <span style="color: #4CAF50; font-size: 28px; font-weight: bold;">🌟 Funcionalidades do ESDEATH BOT</span>
+  <span style="color: #4CAF50; font-size: 28px; font-weight: bold;">🌟 **Funcionalidades do ESDEATH BOT**</span>
 </div>
+
+
 
 <div style="background-color: #f9f9f9; border-radius: 10px; padding: 20px; margin: 20px;">
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔗 **Anti Link:** Bloqueia links indesejados para proteger o grupo.</li>
-    <li>🚫 **Anti Fake:** Detecta e remove contas falsas.</li>
-    <li>👤 **Anti Contato:** Evita o compartilhamento de contatos não autorizados.</li>
-    <li>📛 **Anti Marcações:** Restringe marcações excessivas para manter o foco.</li>
-    <li>📌 **Marca Todos do Grupo:** Envia mensagens para todos os membros do grupo de forma rápida.</li>
-    <li>🔒 **Sistema de Fechar e Abrir Grupo:** Controle sobre a participação no grupo.</li>
-    <li>🎉 **Brincadeiras:** Várias interações divertidas para animar o grupo.</li>
-    <li>💳 **Sistema de Gold:** Recursos premium disponíveis para usuários específicos.</li>
-    <li>🔄 **Interações:** Aumenta o engajamento com mensagens automáticas e reações.</li>
-    <li>🎵 **Play YouTube de Vídeos e Músicas:** Toque vídeos e músicas diretamente no grupo.</li>
-    <li>🎧 **Play Spotify:** Integração com Spotify para streaming de músicas.</li>
-    <li>📥 **Download TikTok/Instagram/Twitter/Facebook:** Baixe conteúdos de várias plataformas.</li>
-    <li>🔇 **Sistema de Mute:** Mute membros que estão incomodando.</li>
-    <li>🖼️ **Fazer Figurinhas e Figurinhas Animadas:** Criação de stickers personalizados.</li>
-    <li>📊 **Contador de Mensagens/Figurinhas:** Monitora e exibe estatísticas de interações.</li>
-    <li>⚙️ **Entre Outras Coisas:** Recursos adicionais que tornam o bot ainda mais versátil.</li>
+    <li>🔗 **Anti Link**: Bloqueia links indesejados para proteger o grupo.</li>
+    <li>🚫 **Anti Fake**: Detecta e remove contas falsas.</li>
+    <li>👤 **Anti Contato**: Evita o compartilhamento de contatos não autorizados.</li>
+    <li>📛 **Anti Marcações**: Restringe marcações excessivas para manter o foco.</li>
+    <li>📌 **Marca Todos do Grupo**: Envia mensagens para todos os membros do grupo de forma rápida.</li>
+    <li>🔒 **Sistema de Fechar e Abrir Grupo**: Controle sobre a participação no grupo.</li>
+    <li>🎉 **Brincadeiras**: Várias interações divertidas para animar o grupo.</li>
+    <li>💳 **Sistema de Gold**: Recursos premium disponíveis para usuários específicos.</li>
+    <li>🔄 **Interações**: Aumenta o engajamento com mensagens automáticas e reações.</li>
+    <li>🎵 **Play YouTube de Vídeos e Músicas**: Toque vídeos e músicas diretamente no grupo.</li>
+    <li>🎧 **Play Spotify**: Integração com Spotify para streaming de músicas.</li>
+    <li>📥 **Download TikTok/Instagram/Twitter/Facebook**: Baixe conteúdos de várias plataformas.</li>
+    <li>🔇 **Sistema de Mute**: Mute membros que estão incomodando.</li>
+    <li>🖼️ **Fazer Figurinhas e Figurinhas Animadas**: Criação de stickers personalizados.</li>
+    <li>📊 **Contador de Mensagens/Figurinhas**: Monitora e exibe estatísticas de interações.</li>
+    <li>⚙️ **Entre Outras Coisas**: Recursos adicionais que tornam o bot ainda mais versátil.</li>
   </ul>
 </div>
 
