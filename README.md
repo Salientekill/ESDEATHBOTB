@@ -1,57 +1,98 @@
-# ESDEATH BOT V9B OFC
+---
+
+ESDEATH BOT V9 OFC
+
 <div align="center">
 <img src="https://telegra.ph/file/4f55f227cb19842a5280b.jpg" alt="ESDEATH BOT" width="300" />
-
-</div>
-<p align="center">
+</div><p align="center">
   <a href="https://github.com/Salientekill/ESDEATHBOT.git"><img title="Author" src="https://img.shields.io/badge/Author-LotusDev-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
+</p>🚨 ATENÇÃO: BOT PAGO 🚨
 
-//==========⚠️ < AVISO > ⚠️==========\\
-BOT PAGO, PARA O LIGAMENTO DO BOT E NECESSARIO A CHAVE DE ACESSO PARA ESTÁ LIGANDO, CASO QUEIRA ADQUIRIR A CHAVE DE ACESSO ENTRE NO GRUPO OFICIAL E PROCURAR O LOTUS.
+Este é um bot privado. Para ativar o ESDEATH BOT, é necessária uma chave de acesso. Se você deseja adquirir a chave de ativação, entre no grupo oficial e entre em contato com Lotus.
 
-DOWNLOAD DA PASTA DO BOT EM ZIP:
+📦 Download do Bot
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-brightgreen)](https://github.com/Salientekill/ESDEATHBOTB/archive/refs/heads/main.zip)
+Baixe a versão mais recente do ESDEATH BOT diretamente do GitHub:
 
-PRECISA DE AJUDA? ENTRE EM NOSSO GRupo: 
 
-https://chat.whatsapp.com/GTXYQ9ipObnKfHU1jMPLII
 
-SÓ SERÁ NESCESSARIO DA OS COMANDOS BÁSICOS DO TERMUX, SE APÓS A INSTALAÇÃO DELE, NÃO FOI DADO ESSES COMANDOS LISTADOS. 
+❓ Precisa de Ajuda?
 
-_-_-_-_-_-_-_-_-_
+Se precisar de suporte durante a instalação ou operação do bot, entre no nosso grupo de suporte no WhatsApp:
 
-SE PRECISAR, INSTALE O TERMUX VERSÃO 119
 
-https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
-_-_-_-_-_-_-_-_-_-_
 
-COMANDOS BÁSICOS PARA BAIXAR OS PACOTES E BAIXAR A PASTA OFICIAL DA ESDEATH BOT:
 
-❄️ ~ 1 COMANDO :
+---
 
-pkg upgrade -y && pkg update -y && apt install git nodejs termux-am ffmpeg tesseract python  wget -y && termux-setup-storage
+🛠️ Requisitos de Instalação
 
-VAI PRECISAR DIGITAR Y E CONFIRMAR TODA VEZ QUE PEDIR.
+🔧 Passo 1: Instalar o Termux
 
-Obs: caso tente ligar o bot e de acess denied significa que você tem que dar acesso a todos os arquivos ao termux(caso tenha usando ele)
+Baixe e instale a versão 0.119 do Termux:
 
-❄️ ~ 2 Comando :
+Baixar Termux 0.119 APK
+
+⚙️ Passo 2: Comandos Básicos para Preparar o Ambiente
+
+Após instalar o Termux, siga as instruções abaixo para configurar seu ambiente de desenvolvimento:
+
+1. Atualize os pacotes e instale as dependências necessárias:
+
+pkg upgrade -y && pkg update -y && apt install git nodejs termux-am ffmpeg tesseract python wget -y && termux-setup-storage
+
+> Observação: Durante a instalação, você precisará confirmar com Y sempre que solicitado.
+
+
+
+
+2. Baixe a pasta do ESDEATH BOT:
 
 cd /sdcard && rm -rf ESDEATHBOTB && git clone https://github.com/Salientekill/ESDEATHBOTB.git && cd ESDEATHBOTB
 
-ESTE COMANDO IRÁ BAIXAR A PASTA DO BOT
 
-❄️ ~ 3 COMANDO :
+3. Inicie o bot:
 
-bash start.sh (PARA INICIAR A CONEXÃO COM QR CODE)
+Para iniciar o bot usando um QR Code:
 
-OU
+bash start.sh
 
-bash start.sh -code (PARA INICIAR A CONEXÃO COM O CÓDIGO DE EMPARELHAMENTO)
+Ou para usar o código de emparelhamento:
 
-__-_-_-_-_-
+bash start.sh -code
 
 
-_- CASO TENHA ALGUM PROBLEMA ENTRE NO GRUPO OFICIAL E PEÇA AJUDA A ALGUM DOS ADMS OU AO PRÓPRIO CRIADOR LOTUS
+
+
+> Nota: Se você encontrar o erro "Access Denied", certifique-se de que o Termux tenha permissão para acessar todos os arquivos.
+
+
+
+
+---
+
+🚑 Suporte e Solução de Problemas
+
+Caso enfrente problemas durante a instalação ou execução, entre no grupo oficial e solicite assistência de um dos administradores ou do próprio criador, Lotus.
+
+
+---
+
+🤖 Funcionalidades e Recursos do ESDEATH BOT
+
+Acesso Controlado: O bot só pode ser ligado com uma chave de acesso válida.
+
+Comandos Inteligentes: Ampla gama de comandos para automatizar tarefas em grupos do WhatsApp.
+
+Atualizações Constantes: O ESDEATH BOT está em constante evolução, com novos recursos e melhorias regulares.
+
+Suporte Técnico: Time dedicado para ajudar na instalação e uso do bot.
+
+
+
+---
+
+Esperamos que você aproveite todas as funcionalidades do ESDEATH BOT. Fique à vontade para contribuir, relatar problemas ou sugerir melhorias diretamente no grupo do whatsapp.
+
+
+---
