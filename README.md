@@ -26,8 +26,10 @@ Baixe a versão mais recente do ESDEATH BOT diretamente do GitHub:
 </div>
 
 
+
 Ou, se preferir, você pode clonar o repositório diretamente no seu ambiente:
 
+```bash
 git clone https://github.com/Salientekill/ESDEATHBOT.git
 
 
@@ -70,6 +72,7 @@ Após instalar o Termux, siga as instruções abaixo para configurar seu ambient
 
 1. Atualize os pacotes e instale as dependências necessárias:
 
+```bash
 pkg upgrade -y && pkg update -y && apt install git nodejs termux-am ffmpeg tesseract python wget -y && termux-setup-storage
 
 > Observação: Durante a instalação, você precisará confirmar com Y sempre que solicitado.
