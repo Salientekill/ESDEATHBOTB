@@ -31,7 +31,7 @@ Ou, se preferir, você pode clonar o repositório diretamente no seu ambiente:
 
 ```bash
 git clone https://github.com/Salientekill/ESDEATHBOT.git
-
+```
 
 <div align="center">
 ❓ Precisa de Ajuda?
@@ -74,6 +74,7 @@ Após instalar o Termux, siga as instruções abaixo para configurar seu ambient
 
 ```bash
 pkg upgrade -y && pkg update -y && apt install git nodejs termux-am ffmpeg tesseract python wget -y && termux-setup-storage
+```
 
 > Observação: Durante a instalação, você precisará confirmar com Y sempre que solicitado.
 
