@@ -7,7 +7,7 @@
   
   
 <div align="center">
-**🚨 ATENÇÃO: BOT PAGO 🚨**
+  🚨 ATENÇÃO: BOT PAGO 🚨
 </div>
 
 Este é um bot privado. Para ativar o ESDEATH BOT, é necessária uma chave de acesso. Se você deseja adquirir a chave de ativação, entre no grupo oficial e entre em contato com Lotus.
@@ -52,6 +52,7 @@ Se precisar de suporte durante a instalação ou operação do bot, entre no nos
 </div>
 
 
+
 🔧 Passo 1: Instalar o Termux
 
 Baixe e instale o Termux:
@@ -61,6 +62,7 @@ Baixe e instale o Termux:
     <img src="https://img.shields.io/badge/Download%20Termux-3DDC84?style=for-the-badge&logo=googleplay" alt="Baixar Termux"/>
   </a>
 </div>
+
 
 ⚙️ Passo 2: Comandos Básicos para Preparar o Ambiente
 
