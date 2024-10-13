@@ -40,7 +40,7 @@ git clone https://github.com/Salientekill/ESDEATHBOT.git
 Se precisar de suporte durante a instalação ou operação do bot, entre no nosso grupo de suporte no WhatsApp:
 
 <div align="center">
-<a href="https://chat.whatsapp.com/KQqkmb620lq9A2dPsL8i4s">
+<a href="https://chat.whatsapp.com/GTXYQ9ipObnKfHU1jMPLII">
 <img src="https://img.shields.io/badge/Entrar%20no%20Grupo%20do%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Entrar no Grupo do WhatsApp "/>
 </a>
 </div>
@@ -50,9 +50,8 @@ Se precisar de suporte durante a instalação ou operação do bot, entre no nos
 ---
 
 <div align="center">
-🛠️<b>Requisitos de Instalação</b>
+🛠️ <b>Requisitos de Instalação</b>
 </div>
-
 
 
 🔧 Passo 1: Instalar o Termux
@@ -117,7 +116,7 @@ bash start.sh -code
 Caso enfrente problemas durante a instalação ou execução, entre no grupo oficial e solicite assistência de um dos administradores ou do próprio criador, Lotus.
 
 <div align="center">
-<a href="https://chat.whatsapp.com/KQqkmb620lq9A2dPsL8i4s">
+<a href="https://chat.whatsapp.com/GTXYQ9ipObnKfHU1jMPLII">
 <img src="https://img.shields.io/badge/Entrar%20no%20Grupo%20do%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Entrar no Grupo do WhatsApp "/>
 </a>
 </div>
