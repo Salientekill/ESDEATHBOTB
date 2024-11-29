@@ -38,6 +38,7 @@
   "scripts": {
     "start": "ulimit -c 0 && bash start.sh -code",
     "start2": "ulimit -c 0 && bash start.sh",
+    "start3": "ulimit -c 0 && bash start.sh -code2",
     "atualizar": "bash atualizar.sh",
     "test": "node iniciar.js"
   },
