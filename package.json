@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.0",
     "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
     "assemblyai": "^4.8.0",
     "axios": "^0.21.1",
